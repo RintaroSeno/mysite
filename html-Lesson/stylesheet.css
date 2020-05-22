@@ -1,0 +1,42 @@
+.title {
+  color: #02ccda;
+  text-align: center;
+}
+span{font-size: 50px}
+li {
+  list-style: none;
+  float: left;
+  padding: 0px 26px;
+}
+.header{
+  height: 80px;
+  background-color: #eee
+}
+
+.header-logo{
+  float: left;
+  font-size: 30px;
+  padding: 20px 40px;
+  color: #02ccda;
+}
+.header-list{
+  float: right;
+  font-size: 15px;
+  padding: 28px 20px;
+}
+
+.main p{
+  font-size: 15px;
+  padding: 15px 80px;
+}
+.main textarea{
+  margin: 0px 50px;
+}
+.footer{
+  height: 90px;
+  background-color: #02ccda
+}
+.footer p{
+  float: left;
+  padding: 10px 20px;
+}
